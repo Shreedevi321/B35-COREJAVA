@@ -3,7 +3,7 @@ package DATATYPES;
 public class DATATYPESDEMO {
 
 	public static void main(String[] args) {
-int xyz=128;
+          int xyz=128;
 		
 		long _abc=2147483648L;
 		System.out.println("The value is: "+xyz);
@@ -13,8 +13,8 @@ int xyz=128;
 		double d=41.9;
 		String str="GIRISHA";
 		boolean var=true;
-		int x=(int)12.5;
-		float y=(float)34;
+		int x=12;
+		float y=34;
 		System.out.println("The value is: "+num);
 		System.out.println("The value is: "+c);
 		System.out.println("The value is: "+d);
